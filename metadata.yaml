@@ -1,0 +1,39 @@
+_repo: The-weight-of-the-name_68859
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Yves, George Burnham
+    gutenberg_agent_id: '53216'
+    url: http://www.gutenberg.org/2009/agents/53216
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Paul Charles Joseph
+    - Bourget, Charles Joseph Paul
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2022-08-29'
+identifiers:
+  gutenberg: '68859'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008672393
+pgterms:marc905: 20220518060647bourget
+pgterms:marc906: '1908'
+pgterms:marc907: UK
+production_note: Dagny and Laura Natal Rodrigues (Images generously made available
+  by Hathi Trust Digital Library.)
+publication_note: UK :Little, Brown, and Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The weight of the name
+url: http://www.gutenberg.org/ebooks/68859
